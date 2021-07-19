@@ -1,4 +1,6 @@
-* [About](/)
+* About
+    * [Welcome](/)
+    * [Legal Notices](legal.md) 
 * [Release Notes](releases/)
 * [StorageOS Architecture](sosarch/)
 * [Day 0 - Designing](day0/)
