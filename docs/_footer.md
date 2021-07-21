@@ -1,1 +1,1 @@
-maintained by [rovandep](https://github.com/rovandep) & rendered with [docsify](https://docsify.js.org)
+rendered with [docsify](https://docsify.js.org)
